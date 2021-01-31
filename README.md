@@ -1,7 +1,7 @@
 # Moddle-Attendence-Automator  <img src="https://media1.tenor.com/images/aaf7f2bb862a0004acad5bff2b08d927/tenor.gif?itemid=10721555" width="60px">
 
 ### About:
-- This is a simple python to program to automate your college attendence
+- This is a simple python to program to automate your college attendance
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />]()
 [<img align="left" alt="Selenium" width="26px" src="https://www.selenium.dev/images/selenium_logo_square_green.png" />]()
